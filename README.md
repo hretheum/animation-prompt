@@ -28,7 +28,7 @@ To edit a skill, change the files under `skills/` and zip the skill folder as a 
 
 ## Background
 
-The skills borrow the structure of strong animation prompts, not their sentences. They were inspired by Peter Gostev's [3d-prompt-collection](https://github.com/petergpt/3d-prompt-collection), used with the author's permission for the accompanying article. This repository contains none of its prompts; every example here is original.
+The skills borrow the structure of strong animation prompts, not their sentences. They were inspired by Peter Gostev's [3d-prompt-collection](https://github.com/petergpt/3d-prompt-collection) (https://github.com/petergpt/3d-prompt-collection), used with the author's permission for the accompanying article. This repository contains none of its prompts; every example here is original.
 
 ## License
 
